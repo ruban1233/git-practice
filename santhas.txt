@@ -1,1 +1,2 @@
-g
+this is the edit format 
+successfully git upload a repository
